@@ -111,6 +111,8 @@ for i in [1, 2, 3]:
     plotRMSEValue(100, RMSE_list,poly = i)
 plt.show()
 
+import pandas as pd
+
 
 
 
